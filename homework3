@@ -1,1 +1,7 @@
+#include <stdio.h>
 
+int main() {
+    char name[] = "Nickolas McClelland"; // im being a bit fancy becuase why not
+    printf("Hello teach. My name is %s and I'm in your CMPE311 class.\n", name);
+    return 0;
+}
